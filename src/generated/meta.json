@@ -1,0 +1,20 @@
+{
+  "needleEditor": null,
+  "meta": {
+    "title": "Needle Engine",
+    "description": "🌵 Made with Needle Engine",
+    "image": "include/Scrollytelling-2.jpg"
+  },
+  "absolutePath": "https://localhost:3000",
+  "sceneName": "Scrollytelling 2",
+  "deployOnly": false,
+  "generator": "Unity 2021.3.33f1, Needle Engine Integration @4.9.0",
+  "gzip": true,
+  "allowHotReload": false,
+  "developmentBuild": false,
+  "license": {
+    "team": "jg3twr0f7zgf"
+  },
+  "facebookInstantGames": null,
+  "useRapier": true
+}
